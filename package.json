@@ -6,6 +6,7 @@
   "types": "build/index.d.ts",
   "license": "MIT",
   "dependencies": {
+    "uuid": "^8.3.2",
     "ws": "^7.4.5"
   },
   "devDependencies": {
