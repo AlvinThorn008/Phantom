@@ -1,0 +1,34 @@
+type APIEvent = 
+"AwardAchievement" |
+"BlockPlaced" |
+"BlockBroken" |
+"EndOfDay" |
+"GameRulesLoaded" |
+"GameRulesUpdated" |
+"PlayerMessage" |
+"PlayerTeleported" |
+"PlayerTravelled" |
+"PlayerTransform" |
+"ItemAcquired" |
+"ItemCrafted" |
+"ItemDropped" |
+"ItemEquipped" |
+"ItemInteracted" |
+"ItemNamed" |
+"ItemSmelted" |
+"ItemUsed" |
+"BookEdited" |
+"SignedBookOpened" |
+"MobBorn" |
+"MobInteracted" |
+"MobKilled" |
+"StartWorld" |
+"WorldLoaded" |
+"WorldGenerated" |
+"ScriptLoaded" |
+"ScriptRan" |
+"ScreenChanged" |
+"SlashCommandExecuted" |
+"SignInToXboxLive" |
+"SignOutOfXboxLive" |
+"VehicleExited"
